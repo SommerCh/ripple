@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+sitemap: https://www.xml-sitemaps.com/details-webudvikling.com-52277ab93.html
